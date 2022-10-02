@@ -13,16 +13,16 @@ categories: カメラ
 
 APS-Cでもよかったんだけど、フィルム時代のマニュアルレンズを何本か持っており、元の画角で使ってみたかったのでフルサイズの入門機のZ 5を選択した。
 
-元が15年前のエントリー機だったため、そこからの性能のジャンプアップがすごい。Zマウントのレンズラインナップがまだ揃ってないこと以外は特に不満無し。
+元が15年前のエントリー機だったため、そこからの性能のジャンプアップがすごい。Zマウントのレンズラインナップがまだ揃ってないこと以外は満足している。
 
 ## レンズ
-最近は標準単焦点 + 広角単焦点 + 望遠ズームを1本ずつ持っていくことが多い。
+最近は標準単焦点 + 広角単焦点 + 望遠ズームを1本ずつ持っていくことが多い。広角と望遠は新しいレンズを買おうか悩んでいる。
 
 ペーパードライバーで車をつかえないので徒歩移動も多く、なるべく小型軽量のレンズにしたい。
 
 ### 標準
 #### NIKKOR Z 40mm F2
-屋内の水槽を撮るために明るい単焦点レンズを購入。
+屋内の水槽を撮るために明るい単焦点レンズを用意した。
 
 50mm F1.8も選択肢としてあったけど、軽い方がいいのでこちらを選んだ。
 
@@ -43,7 +43,7 @@ F値が暗いし、望遠側も50mm止まりなので動物を撮るのにはほ
 #### Ai Nikkor 24mm F2.8 S
 マニュアルレンズ。
 
-単焦点のわりにF2.8止まりだし、描写もそんなに良くない(オールドレンズらしい味のある描写でもなく、かといって解像度が高いわけでもない)気がするので気が向いたときに買い替えるかもしれない。
+単焦点のわりにF2.8止まりだし、描写もそんなに良くない(オールドレンズらしい味のある描写でもなく、かといって解像度が高いわけでもない)気がするので、気が向いたときに買い替えるかもしれない。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">オラオラ系アザラシ (2022.09.28)<a href="https://twitter.com/hashtag/%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#しながわ水族館</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a> <a href="https://t.co/E7gNdzd9KA">pic.twitter.com/E7gNdzd9KA</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1575475171246604290?ref_src=twsrc%5Etfw">September 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -55,7 +55,7 @@ F値が暗いし、望遠側も50mm止まりなので動物を撮るのにはほ
 
 望遠側150mmで場所によっては足りないことはあるけど、多くのアザラシ展示では十分だと思う。少し足りないくらいならトリミングすればいいし。
 
-もちろんAFが付いていないので、手動でピント合わせが必要なところが最大のネック。毎回ファインダーを覗いてピントを合わせるのは結構疲れるし、大事なところでピンボケになることもある。Zマウントで70-180mm F2.8が出るかもしれないのでちょっと期待。
+もちろんAFが付いていないので、手動でピント合わせが必要なところが最大のネック。毎回ファインダーを覗いてピントを合わせるのは結構疲れるし、大事なところでピンボケになることもある。Zマウントで70-180mm F2.8が出るかもしれないのでちょっと期待している。
 
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">よだれがすごい (2022.09.04)<a href="https://twitter.com/hashtag/%E5%8A%A0%E8%8C%82%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#加茂水族館</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a> <a href="https://t.co/BbMoPkva7m">pic.twitter.com/BbMoPkva7m</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1566351657763360768?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
