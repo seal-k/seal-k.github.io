@@ -23,11 +23,11 @@ You can find the source code for Jekyll at GitHub:
 - なまえ：R. Manabe, a.k.a. シールK
 - 生息地：神奈川県か東京都
 - すきなもの：
-    - カメラ(Nikon、Carl Zeiss)
+    - カメラ (Nikon、Carl Zeiss)
     - スピッツ
-    - ギター/ベース(Gibson)
-    - データベース
-    - ラジオ(新潟県のラジオが8割)
+    - ギター/ベース (Gibson)
+    - データベース (SQL Server)
+    - ラジオ (新潟県のラジオが8割)
     - アザラシ
 
 ## アザラシ🦭
