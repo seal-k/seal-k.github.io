@@ -1,0 +1,69 @@
+---
+layout: post
+title:  "アザ活に使っているカメラとレンズ"
+date:   2022-10-02 22:30:00 +0900
+categories: カメラ
+---
+
+自慢できるようなものは全然使っていないけど、参考までに。
+
+## カメラ
+### Nikon Z 5
+それまではNikon D40xという15年前のエントリー機を使っていたけど、動物園に持って行ってみて限界を感じた(特に高感度性能が弱かった)ので購入。
+
+APS-Cでもよかったんだけど、フィルム時代のマニュアルレンズを何本か持っており、元の画角で使ってみたかったのでフルサイズの入門機のZ 5を選択した。
+
+元が15年前のエントリー機だったため、そこからの性能のジャンプアップがすごい。Zマウントのレンズラインナップがまだ揃ってないこと以外は特に不満無し。
+
+## レンズ
+最近は標準単焦点 + 広角単焦点 + 望遠ズームを1本ずつ持っていくことが多い。
+
+ペーパードライバーで車をつかえないので徒歩移動も多く、なるべく小型軽量のレンズにしたい。
+
+### 標準
+#### NIKKOR Z 40mm F2
+屋内の水槽を撮るために明るい単焦点レンズを購入。
+
+50mm F1.8も選択肢としてあったけど、軽い方がいいのでこちらを選んだ。
+
+35mmと50mmの間で中途半端だと考える人もいると思うけど、個人的には(水槽を撮るのには)広すぎず狭すぎずちょうどいい画角だと思う。ズームできなくて困ることもそんなにない。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここはアザラシ天国ですか？ (2022.09.05)<a href="https://twitter.com/hashtag/%E7%94%B7%E9%B9%BF%E6%B0%B4%E6%97%8F%E9%A4%A8GAO?src=hash&amp;ref_src=twsrc%5Etfw">#男鹿水族館GAO</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a><br><br>1枚目:おんぷ<br>2枚目:ジェット<br>3枚目:こまち のはず…。 <a href="https://t.co/A4FKqdWxhR">pic.twitter.com/A4FKqdWxhR</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1567147426573856771?ref_src=twsrc%5Etfw">September 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">じーっ (2022.10.01)<a href="https://twitter.com/hashtag/%E3%82%B5%E3%83%B3%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%B3%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#サンシャイン水族館</a> <a href="https://twitter.com/hashtag/%E3%83%90%E3%82%A4%E3%82%AB%E3%83%AB%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#バイカルアザラシ</a> <a href="https://t.co/ujpkFlBufi">pic.twitter.com/ujpkFlBufi</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1576131434640994305?ref_src=twsrc%5Etfw">October 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<!--
+#### NIKKOR Z 24-50mm F4-6.3
+Z 5のキットレンズ。小型で軽く、結構いい写りをする。
+
+F値が暗いし、望遠側も50mm止まりなので動物を撮るのにはほとんど使っていない。広角レンズ代わりに旅行先に持っていくのに使えるかと。
+-->
+
+### 広角
+#### Ai Nikkor 24mm F2.8 S
+マニュアルレンズ。
+
+単焦点のわりにF2.8止まりだし、描写もそんなに良くない(オールドレンズらしい味のある描写でもなく、かといって解像度が高いわけでもない)気がするので気が向いたときに買い替えるかもしれない。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">オラオラ系アザラシ (2022.09.28)<a href="https://twitter.com/hashtag/%E3%81%97%E3%81%AA%E3%81%8C%E3%82%8F%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#しながわ水族館</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a> <a href="https://t.co/E7gNdzd9KA">pic.twitter.com/E7gNdzd9KA</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1575475171246604290?ref_src=twsrc%5Etfw">September 29, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### 望遠
+#### Nikon Lens Series E Zoom 75-150mm F3.5
+40年くらい前のNikkor銘が付いていない廉価版レンズ。祖父か叔父が使っていたものをもらった。
+
+望遠ズームにしてはかなり軽く、廉価版として作られたものだけどしっかりと写る。F値もズーム全域で3.5が使えて便利。
+
+望遠側150mmで場所によっては足りないことはあるけど、多くのアザラシ展示では十分だと思う。少し足りないくらいならトリミングすればいいし。
+
+もちろんAFが付いていないので、手動でピント合わせが必要なところが最大のネック。毎回ファインダーを覗いてピントを合わせるのは結構疲れるし、大事なところでピンボケになることもある。Zマウントで70-180mm F2.8が出るかもしれないのでちょっと期待。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">よだれがすごい (2022.09.04)<a href="https://twitter.com/hashtag/%E5%8A%A0%E8%8C%82%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#加茂水族館</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a> <a href="https://t.co/BbMoPkva7m">pic.twitter.com/BbMoPkva7m</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1566351657763360768?ref_src=twsrc%5Etfw">September 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">アザラシのトライアングル (2022.09)<a href="https://twitter.com/hashtag/%E7%94%B7%E9%B9%BF%E6%B0%B4%E6%97%8F%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#男鹿水族館</a> <a href="https://twitter.com/hashtag/%E7%94%B7%E9%B9%BF%E6%B0%B4%E6%97%8F%E9%A4%A8GAO?src=hash&amp;ref_src=twsrc%5Etfw">#男鹿水族館GAO</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a> <a href="https://t.co/9eDxxKxNpF">pic.twitter.com/9eDxxKxNpF</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1570789287054168074?ref_src=twsrc%5Etfw">September 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### AF-S DX VR Zoom-Nikkor 55-200mm F4-5.6G ED
+D40xのダブルズームキットレンズ。
+
+APS-C用なのでフルサイズのカメラに付けると強制的にクロップされて82.5-300mm相当になる。クロップ後も画素数は10MPくらいで必要十分ではあるのだけれど、本来使える部分が使えないのでなんとなく気持ちがよくない。
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://twitter.com/hashtag/%E5%85%A8%E6%97%A5%E6%9C%AC%E3%81%8D%E3%82%82%E3%81%A1%E3%82%88%E3%81%95%E3%81%9D%E3%81%86%E3%81%AB%E7%9C%A0%E3%82%8B%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7%E9%81%B8%E6%89%8B%E6%A8%A9?src=hash&amp;ref_src=twsrc%5Etfw">#全日本きもちよさそうに眠るアザラシ選手権</a><a href="https://twitter.com/hashtag/%E3%83%9E%E3%83%AA%E3%83%B3%E3%83%94%E3%82%A2%E6%97%A5%E6%9C%AC%E6%B5%B7?src=hash&amp;ref_src=twsrc%5Etfw">#マリンピア日本海</a> <a href="https://twitter.com/hashtag/%E3%82%B4%E3%83%9E%E3%83%95%E3%82%A2%E3%82%B6%E3%83%A9%E3%82%B7?src=hash&amp;ref_src=twsrc%5Etfw">#ゴマフアザラシ</a><br>(2022.08) <a href="https://t.co/M1or0PuQsi">pic.twitter.com/M1or0PuQsi</a></p>&mdash; シールK (@seal_k_ca) <a href="https://twitter.com/seal_k_ca/status/1574999495347122176?ref_src=twsrc%5Etfw">September 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
