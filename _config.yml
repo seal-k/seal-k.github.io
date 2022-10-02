@@ -32,8 +32,8 @@ twitter_username: seal_k_ca
 github_username:  seal-k
 
 # Build settings
-theme: minima
-# theme: jekyll-theme-minimal
+# theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
